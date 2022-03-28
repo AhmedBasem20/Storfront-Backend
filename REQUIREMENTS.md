@@ -40,3 +40,4 @@ These are the notes from a meeting with the frontend developer that describe wha
 - user_id
 - status of order (active or complete)
 
+//TO DO >> API routes information
